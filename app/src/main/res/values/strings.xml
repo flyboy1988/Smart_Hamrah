@@ -1,0 +1,132 @@
+<resources>
+    <string name="app_name">SmartHamrah</string>
+
+
+
+
+
+
+    <string name="filter_title">فیلتر ها</string>
+    <string name="filter_sort_by">مرتب سازی بر اساس</string>
+    <string name="filter_oldest">قدیمی</string>
+    <string name="filter_newest">جدید</string>
+    <string name="apply_filter">اعمال فیلتر</string>
+    <string name="confirm">تایید</string>
+    <string name="feature_ticket">تیکت ها</string>
+
+
+    <string name="write_message">پیام خود را بنویسید...</string>
+
+    <string name="chat_empty_message">
+        تیکت شما بعد از ارسال اولین پیام ایجاد می‌شود
+    </string>
+
+    <string name="customer_avatar">تصویر مشتری</string>
+
+    <string name="back">بازگشت</string>
+
+    <string name="send_message">ارسال پیام</string>
+
+    <string name="attach_file">پیوست فایل</string>
+
+    <string name="btn_new_ticket">ثبت تیکت جدید</string>
+    <string name="filter_text">فیلتر کردن</string>
+    <string name="view_details">مشاهده جزئیات</string>
+
+    <string name="emoji">ایموجی</string>
+
+    <string name="message_received">پیام شما دریافت شد</string>
+
+    <string name="label_select_category">انتخاب دسته‌بندی</string>
+    <string name="placeholder_select_category">انتخاب یک دسته</string>
+
+    <string name="category_transaction_check">بررسی تراکنش</string>
+    <string name="category_loan_request">درخواست وام</string>
+    <string name="category_bank_cards">کارت‌های بانکی</string>
+    <string name="category_facilities">مسدودی کارت و حساب</string>
+    <string name="category_sms_cutoff">قطع پیامک واریزی</string>
+
+    <string name="desc_close_screen">بستن صفحه</string>
+    <string name="desc_customer_avatar">تصویر پروفایل مشتری</string>
+    <string name="end_conversation">خاتمه گفتگو</string>
+
+
+    <string name="ticket_title">عنوان تیکت</string>
+    <string name="ticket_date">تاریخ ارسال</string>
+    <string name="ticket_time">زمان ارسال</string>
+
+    <string name="ticket_description_label">توضیحات</string>
+    <string name="ticket_reply_label">پاسخ پشتیبان</string>
+    <string name="ticket_answered">متن پاسخ داده شده</string>
+    <string name="status_pending">در حال بررسی</string>
+    <string name="status_closed">خاتمه یافته</string>
+
+
+
+    <!-- Home screen -->
+    <string name="recent_requests">درخواست های اخیر</string>
+    <string name="view_all">مشاهده همه</string>
+
+    <!-- Metric cards -->
+    <string name="card_customers">مشتریان</string>
+    <string name="card_ticket">تیکت</string>
+    <string name="card_education">آموزش</string>
+    <string name="card_leaderboard">لیدر برد</string>
+    <string name="card_reports">گزارشات</string>
+
+    <!-- Dynamic values (use placeholders) -->
+    <string name="customers_count_with_requests"> %d مشتری | %d درخواست</string>
+    <string name="tickets_count">عدد %d </string>
+    <string name="education_count">  %d محتوا  </string>
+    <string name="customers_count">مشتری %d </string>
+
+    <!-- Bottom navigation -->
+    <string name="nav_home">خانه</string>
+    <string name="nav_leaderboard">لیدر برد</string>
+    <string name="nav_reports">گزارشات</string>
+
+    <string name="user_display_name">بانکدار</string>
+    <string name="recent_requests_title">درخواست‌های اخیر</string>
+    <string name="view_all_action">مشاهده همه</string>
+
+    <!-- Feature Titles -->
+    <string name="feature_chat">گفتگو</string>
+    <string name="feature_access">دسترسی</string>
+    <string name="feature_call">تماس</string>
+    <string name="feature_reports">گزارشات</string>
+    <string name="feature_customers">مشتریان</string>
+
+    <!-- Feature Subtitles -->
+    <string name="sub_chat_messages">%d پیام جدید</string>
+    <string name="sub_ticket_count">%d تیکت جدید</string>
+    <string name="sub_customer_count">%d مشتری</string>
+    <string name="sub_monthly">ماهانه</string>
+
+    <!-- Avatars -->
+    <string name="avatar_initial_p">پ</string>
+    <string name="avatar_name_sample">پرهام رجب علی</string>
+
+
+
+    <!-- Loading states -->
+    <string name="loading">در حال بارگذاری...</string>
+    <string name="refreshing">در حال به‌روزرسانی...</string>
+    <string name="cd_messages">پیامها</string>
+    <string name="attachment_uploaded">سند آپلود شده</string>
+    <string name="ticket_description_hint">شرح موضوع...</string>
+
+
+
+    <string name="profile_title">پروفایل</string>
+
+    <string name="profile_mobile">شماره موبایل سازمانی</string>
+    <string name="profile_position">پست سازمانی</string>
+    <string name="profile_province">استان محل کار</string>
+    <string name="profile_city">شهرستان محل کار</string>
+    <string name="profile_branch">شعبه</string>
+
+    <string name="logout">خروج</string>
+
+    <string name="profile_votes">\u202B%1$.1f از %2$d رای\u202C</string>
+    <string name="confirm_enter">تایید ورود</string>
+</resources>

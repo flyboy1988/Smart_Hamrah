@@ -1,0 +1,26 @@
+<!--
+  ~ Copyright (C) 2026 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="21dp"
+    android:height="20dp"
+    android:viewportWidth="21"
+    android:viewportHeight="20">
+  <path
+      android:pathData="M8.458,4.17C9.324,2.057 9.757,1 10.502,1C11.247,1 11.68,2.057 12.546,4.17L12.587,4.268C13.076,5.462 13.321,6.059 13.82,6.421C14.318,6.784 14.973,6.842 16.283,6.956L16.519,6.977C18.662,7.165 19.734,7.259 19.963,7.926C20.192,8.593 19.397,9.301 17.805,10.718L17.274,11.191C16.468,11.908 16.066,12.266 15.878,12.736C15.843,12.824 15.814,12.914 15.791,13.005C15.667,13.495 15.785,14.015 16.021,15.055L16.094,15.379C16.528,17.291 16.745,18.247 16.366,18.66C16.225,18.814 16.041,18.924 15.837,18.979C15.29,19.125 14.514,18.506 12.963,17.269C11.944,16.457 11.434,16.051 10.849,15.959C10.619,15.923 10.385,15.923 10.155,15.959C9.57,16.051 9.06,16.457 8.041,17.269C6.489,18.506 5.714,19.125 5.167,18.979C4.963,18.924 4.779,18.814 4.638,18.66C4.259,18.247 4.476,17.291 4.909,15.379L4.983,15.055C5.219,14.015 5.337,13.495 5.213,13.005C5.19,12.914 5.161,12.824 5.126,12.736C4.938,12.266 4.536,11.908 3.73,11.191L3.199,10.718C1.607,9.301 0.811,8.593 1.041,7.926C1.27,7.259 2.342,7.165 4.485,6.977L4.721,6.956C6.031,6.842 6.686,6.784 7.184,6.421C7.683,6.059 7.928,5.462 8.417,4.268L8.458,4.17Z"
+      android:strokeWidth="2"
+      android:fillColor="#FF9500"
+      android:strokeColor="#ffffff"/>
+</vector>
